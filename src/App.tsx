@@ -1,3 +1,4 @@
+import { AddStudent } from "./components/AddStudent";
 import { StudentTable } from "./components/StudentTable"
 
 function App() {
@@ -6,6 +7,8 @@ function App() {
     <>
 
     <StudentTable/>
+    <AddStudent/>
+
 
     </>
   )
