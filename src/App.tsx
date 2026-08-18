@@ -1,11 +1,11 @@
-import { Table } from "./components/Table"
+import { StudentTable } from "./components/StudentTable"
 
 function App() {
 
   return (
     <>
 
-    <Table/>
+    <StudentTable/>
 
     </>
   )
